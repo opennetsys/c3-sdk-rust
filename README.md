@@ -1,13 +1,13 @@
-# WIP
-
 # c3-sdk-rust
 
 > The [C3](https://github.com/c3systems/c3-go) SDK for Rust.
 
+NOTE: This is a work-in-progress.
+
 ## Install
 
 ```bash
-TODO
+cargo install c3_sdk
 ```
 
 ## Usage

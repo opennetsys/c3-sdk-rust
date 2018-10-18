@@ -1,5 +1,5 @@
 [package]
-name = "c3"
+name = "c3_sdk"
 version = "0.1.0"
 authors = ["Miguel Mota <hello@miguelmota.com>"]
 
@@ -13,6 +13,9 @@ byteorder = "1.2.6"
 num-bigint = "0.2.0"
 sha2 = "0.8.0"
 rand = "0.5.5"
+serde = "1.0.80"
+serde_json = "1.0.32"
+serde_derive = "1.0.80"
 
 [[bin]]
 name = "c3-sdk-rust"
