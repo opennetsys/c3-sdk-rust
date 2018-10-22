@@ -2,4 +2,5 @@
 main
 
 /target
+example/target
 **/*.rs.bk
