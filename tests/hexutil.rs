@@ -1,8 +1,8 @@
 #[cfg(test)]
 mod tests {
-    extern crate c3;
+    extern crate c3_sdk;
 
-    use self::c3::hexutil;
+    use self::c3_sdk::hexutil;
     use std::string::String;
 
     #[test]

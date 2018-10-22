@@ -1,8 +1,6 @@
 #[cfg(test)]
 mod tests {
-    extern crate c3;
-
-    //use self::c3::server;
+    extern crate c3_sdk;
 
     #[test]
     fn it_works() {

@@ -1,7 +1,5 @@
-#[macro_use]
-extern crate serde_derive;
 use std::collections::HashMap;
-mod client;
+use self::c3_sdk::client::{Client, State};
 
 fn main() {
     let mut client = client::Client::new();
@@ -12,6 +10,4 @@ fn main() {
         return key;
     });
     client.serve();
-    let json = r#"["setItem","foo","bar"]"#;
-    client.kit.process_payload(json.to_string());
 }

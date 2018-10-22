@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Miguel Mota <hello@miguelmota.com>"]
 
 [lib]
+name = "c3_sdk"
+path = "src/lib.rs"
 
 [dependencies]
 hex = "0.3.2"
@@ -16,7 +18,3 @@ rand = "0.5.5"
 serde = "1.0.80"
 serde_json = "1.0.32"
 serde_derive = "1.0.80"
-
-[[bin]]
-name = "c3-sdk-rust"
-path = "src/main.rs"
