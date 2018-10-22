@@ -1,6 +1,5 @@
 extern crate hex;
 extern crate regex;
-extern crate buffer;
 extern crate num_bigint;
 
 use std::str;

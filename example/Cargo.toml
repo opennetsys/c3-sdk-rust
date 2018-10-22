@@ -1,0 +1,7 @@
+[package]
+name = "c3-sdk-rust-example-hello-world"
+version = "0.1.0"
+authors = ["Miguel Mota <miguelmota2@gmail.com>"]
+
+[dependencies]
+c3_sdk = "0.1.0"

@@ -1,0 +1,10 @@
+/Users/mota/Sandbox/c3-sdk-rust/example/target/debug/deps/num_bigint-317d0a80df034154.rmeta: /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/lib.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/macros.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/biguint.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/algorithms.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/monty.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/bigint.rs
+
+/Users/mota/Sandbox/c3-sdk-rust/example/target/debug/deps/num_bigint-317d0a80df034154.d: /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/lib.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/macros.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/biguint.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/algorithms.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/monty.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/bigint.rs
+
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/lib.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/macros.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/biguint.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/algorithms.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/monty.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.2.0/src/bigint.rs:

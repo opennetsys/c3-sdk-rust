@@ -1,0 +1,13 @@
+/Users/mota/Sandbox/c3-sdk-rust/example/target/debug/deps/buffer-6c989d7b47cf0b29.rmeta: /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/lib.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/mod.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/arrayvec.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/buffer_ref.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/cap_at.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/slice.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/slice_ref.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/vec.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/traits.rs
+
+/Users/mota/Sandbox/c3-sdk-rust/example/target/debug/deps/buffer-6c989d7b47cf0b29.d: /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/lib.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/mod.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/arrayvec.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/buffer_ref.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/cap_at.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/slice.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/slice_ref.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/vec.rs /Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/traits.rs
+
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/lib.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/mod.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/arrayvec.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/buffer_ref.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/cap_at.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/slice.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/slice_ref.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/impls/vec.rs:
+/Users/mota/.cargo/registry/src/github.com-1ecc6299db9ec823/buffer-0.1.8/src/traits.rs:
